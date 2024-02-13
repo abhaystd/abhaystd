@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning dsa 
 - 💞️ I’m looking to collaborate on x (twitter)
 - 📫 How to reach me cotact me on gmail abhayya0701@gmail.com
-- 😄 Pronouns: he 
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: ...
 
 <!---
