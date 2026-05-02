@@ -11,32 +11,6 @@ I specialize in designing systems that are **efficient, secure, and production-r
 
 ---
 
-## 🏢 Current Work
-
-### 🔐 Security Detection System
-- Building a **correlation-based security detection system**
-- Using **Neo4j (Graph DB)** for relationship-driven threat detection  
-- Handling **high-volume event data at scale**
-
-### ⚙️ API Optimization & Scalability
-- Optimized APIs to handle **large-scale data loads** where systems were previously breaking  
-- Improved performance through **query optimization, batching, and efficient data handling**
-
-### 📜 Audit Logging System
-- Built a **comprehensive audit logging system** to track user activity across the product  
-- Captures:
-  - Activity type (CRUD actions, auth events, etc.)
-  - IP address tracking  
-  - Request source (browser, mobile, API via curl, etc.)  
-  - Device and environment metadata  
-- Designed for **traceability, monitoring, and security analysis**
-
-### ☁️ Cloud & Deployment
-- Working with **AWS-based infrastructure**
-- Focus on building **reliable and scalable backend services**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
