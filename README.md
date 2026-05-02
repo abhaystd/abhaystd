@@ -14,7 +14,7 @@ I specialize in designing systems that are **efficient, secure, and production-r
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- C / C++, Python, JavaScript
+- Python, JavaScript, C / C++
   
 ### Skills
 - Frontend & Backend: FastAPI, RESTful APIs, Node.js, React.js
