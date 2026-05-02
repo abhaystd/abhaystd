@@ -65,13 +65,7 @@ I specialize in designing systems that are **efficient, secure, and production-r
 
 ---
 
-## 📫 Contact
-📧 **abhayya0701@gmail.com**
-
----
-
-## ⚡ Fun Fact
-I enjoy breaking complex systems into simple, scalable architectures 🚀  
+📧 **Contact** : **abhayya0701@gmail.com**
 
 ---
 
