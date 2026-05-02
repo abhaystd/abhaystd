@@ -14,20 +14,17 @@ I specialize in designing systems that are **efficient, secure, and production-r
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- C / C++
-- Python
-- JavaScript
-- 
+- C / C++, Python, JavaScript
+  
 ### Skills
 - Frontend & Backend: FastAPI, RESTful APIs, Node.js, React.js
-- Database & Cloud: MySQL, Neo4j, AWS (EC2, ECS, S3, Lambda),Elastic search
+- Cloud: AWS (EC2, ECS, S3, Lambda)
 - Tools & Platforms: Git, Postman ,Github, Hyper Terminal
 
 ### ⚙️ Backend & Systems
-- FastAPI (Python)
-- REST APIs
+- FastAPI (Python), REST APIs
 - JWT Authentication & Secure Systems
-- PostgreSQL & MongoDB
+- PostgreSQL, MongoDB, Elastic search
 - Neo4j (Graph Database)
 
 ### 💻 Frontend
@@ -51,32 +48,14 @@ I specialize in designing systems that are **efficient, secure, and production-r
 - Graph-based threat detection using Neo4j
 - Optimized APIs for high-throughput data processing  
 
----
-
 ### 📜 Audit Logging System
 - Centralized logging for **user activity tracking**
 - Captures request metadata (IP, device, request source)
 - Enables **traceability, debugging, and security auditing**
 
----
-
-### 💰 Personal Finance Tracker+
-- Full-stack app with analytics and intelligent suggestions
-- Built using **Next.js + FastAPI + MongoDB**
-
----
-
 ### 🔐 JWT Auth System
 - Secure authentication using JWT
 - Integrated across REST APIs  
-
----
-
-## 🧮 Problem Solving
-- Actively practicing **Data Structures & Algorithms**
-- Focus on writing **optimized, scalable solutions**
-
----
 
 ## 🎯 Career Direction
 - Backend Engineering  
